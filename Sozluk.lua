@@ -172,6 +172,7 @@ function Sozluk.init()
 
 	setAvailableTranslations(translationData)
 	setDefaultTranslation(translationData)
+	loadSelectedTranslation()
 end
 
 return Sozluk

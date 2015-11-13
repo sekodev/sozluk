@@ -2,7 +2,7 @@
 
 Sozluk(meaning 'dictionary' in Turkish) is a localization library for Corona SDK (and probably LÖVE 2D). 
 
-Main difference of this library is that it uses Lua files to store localization data, instead of text or json files. This will let you easily update your games/apps over 50MB on Google Play without coping with patch files.
+Main difference of this library is that it uses the power of Lua tables (files) to store localization data, instead of text or json files. This will let you easily update your games/apps over 50MB on Google Play without coping with patch files.
 
 
 ##Basic instructions

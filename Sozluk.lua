@@ -24,17 +24,18 @@
 
 -- Project: Sozluk
 --
--- Date: April 15, 2015
+-- Date: November 13, 2015
 --
--- Version: 0.1
+-- Version: 0.1.1
 --
 -- Author: Serkan Aksit -> https://github.com/sekodev -> https://twitter.com/sekodev
--- Sleepy Bug Studios -> http://sleepybugstudios.com -> https://www.facebook.com/sleepybugstudios
+-- Sleepy Bug Studios -> http://www.sleepybug.xyz -> https://www.facebook.com/sleepybugstudios
 --
 -- Tools: Sublime Text 3 with Corona Editor 1.5.1
 --
 -- Update History:
 -- 0.1 - Initial release
+-- 0.1.1 - Fixed a bug where default translation won't load
 
 -- ########################################################
 -- Basic instructions

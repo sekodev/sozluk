@@ -1,4 +1,4 @@
-##Sozluk
+## Sozluk
 
 Sozluk(meaning 'dictionary' in Turkish) is a localization library for [Solar2D](https://solar2d.com/) (and probably LÖVE 2D). 
 

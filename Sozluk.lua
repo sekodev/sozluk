@@ -24,18 +24,21 @@
 
 -- Project: Sozluk
 --
--- Version: 0.1.2
+-- Version: 0.1.3
 --
 -- Author: Serkan Aksit - https://github.com/sekodev
--- Contact: info.sleepybug@gmail.com
+-- X/Twitter: https://x.com/sekodev
+--
 -- Sleepy Bug Studio
 -- Facebook: https://www.facebook.com/sleepybugstudio
--- Twitter: https://twitter.com/sleepybugstudio
+-- X/Twitter: https://x.com/sleepybugstudio
+-- email: info.sleepybug@gmail.com
 --
 -- Update History:
 -- 0.1 - Initial release (April 15, 2015)
 -- 0.1.1 - Fixed a bug where default translation won't load (November 13, 2015)
 -- 0.1.2 - Update contact information (May 30, 2022)
+-- 0.1.3 - Update contact information (September 26, 2024)
 
 -- ########################################################
 -- Basic instructions
